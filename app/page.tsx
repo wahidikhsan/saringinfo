@@ -53,7 +53,7 @@ ${data.explanation || ""}
   return (
     <main className="min-h-screen bg-linear-to-br from-gray-950 via-gray-900 to-gray-800 text-white flex items-center justify-center p-4 md:p-6">
       <div className="w-full max-w-2xl bg-gray-900/80 backdrop-blur-lg border border-gray-700 p-6 rounded-2xl shadow-2xl">
-        <h1 className="text-3xl font-bold text-center mb-2 tracking-wide">🛡️ SaringInfo AI 🛡️</h1>
+        <h1 className="text-3xl font-bold text-center mb-2 tracking-wide">🛡️ SaringInfo 🛡️</h1>
         <p className="text-center text-gray-400 mb-6">Deteksi Hoaks & Literasi Digital Berbasis AI</p>
 
         <textarea
